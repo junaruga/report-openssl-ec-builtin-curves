@@ -1,0 +1,4 @@
+*.o
+*.swp
+*~
+/ec_builtin_curves
